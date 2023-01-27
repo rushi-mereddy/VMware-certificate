@@ -5,7 +5,7 @@ body{
 
 
 .container{
-    width: 984px;
+    width: 983px;
     height: 695.2px;
     margin: auto;
     box-shadow: 0px 0px 10px #000;
@@ -53,7 +53,7 @@ body{
   }
 
   .to{
-    font-size: 15.4px;
+    font-size: 12 .4px;
     /* margin-top: 15px; */
     color: rgb(0, 0, 0);
     text-shadow: rgb(104, 104, 104) 0px 0px 1px;
