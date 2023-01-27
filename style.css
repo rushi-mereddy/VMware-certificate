@@ -156,3 +156,7 @@ hr{
     font-weight: 600;;
 }
 
+.sachin-sign{
+  filter: invert(31%) sepia(0%) saturate(1847%) hue-rotate(146deg) brightness(105%) contrast(74%);
+}
+
